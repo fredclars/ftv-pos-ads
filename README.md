@@ -1,1 +1,2 @@
-# ftv-pos-ads
+# FTV POS Ads
+Slideshow content for FTV POS application.
