@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "updated": "2026-06-09",
+  "slides": [
+    {
+      "id": 1,
+      "type": "image",
+      "url": "https://fredclars.github.io/ftv-pos-ads/images/slide1.jpg",
+      "duration_seconds": 8,
+      "title": "Welcome to FTV POS!"
+    },
+    {
+      "id": 2,
+      "type": "video",
+      "url": "https://fredclars.github.io/ftv-pos-ads/videos/promo.mp4",
+      "duration_seconds": 30,
+      "title": ""
+    }
+  ]
+}
