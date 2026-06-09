@@ -8,13 +8,6 @@
       "url": "https://fredclars.github.io/ftv-pos-ads/images/slide1.jpg",
       "duration_seconds": 8,
       "title": "Welcome to FTV POS!"
-    },
-    {
-      "id": 2,
-      "type": "video",
-      "url": "https://fredclars.github.io/ftv-pos-ads/videos/promo.mp4",
-      "duration_seconds": 30,
-      "title": ""
     }
   ]
 }
