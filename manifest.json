@@ -5,9 +5,37 @@
     {
       "id": 1,
       "type": "image",
-      "url": "https://fredclars.github.io/ftv-pos-ads/images/slide1.jpg",
+      "url": "https://fredclars.github.io/ftv-pos-ads/images/banner1.png",
       "duration_seconds": 8,
-      "title": "Welcome to FTV POS!"
+      "title": ""
+    },
+    {
+      "id": 2,
+      "type": "image",
+      "url": "https://fredclars.github.io/ftv-pos-ads/images/banner2.png",
+      "duration_seconds": 8,
+      "title": ""
+    },
+    {
+      "id": 3,
+      "type": "image",
+      "url": "https://fredclars.github.io/ftv-pos-ads/images/banner3.png",
+      "duration_seconds": 8,
+      "title": ""
+    },
+    {
+      "id": 4,
+      "type": "image",
+      "url": "https://fredclars.github.io/ftv-pos-ads/images/banner4.png",
+      "duration_seconds": 8,
+      "title": ""
+    },
+    {
+      "id": 5,
+      "type": "image",
+      "url": "https://fredclars.github.io/ftv-pos-ads/images/banner5.png",
+      "duration_seconds": 8,
+      "title": ""
     }
   ]
 }
